@@ -1,6 +1,6 @@
 # NumberGuesser
 
-A number guesser program built with Python as a first simple little project of mine.
+A number-guessing program built with Python as my first simple little project.
 
 ---
 
@@ -20,4 +20,4 @@ A number guesser program built with Python as a first simple little project of m
 
 ## 🔧 Future Changes
 
-You're welcome to modify or improve the app yourself just check the license first. You might also find community forks or updates floating around GitHub. Other than that I will most likely not be updating this unless there is a major bug that dosent allow you to use the program.
+You're welcome to modify or improve the app yourself; just check the license first. You might also find community forks or updates floating around on GitHub. Other than that, I will most likely not be updating this unless there is a major bug that doesn't allow you to use the program.
