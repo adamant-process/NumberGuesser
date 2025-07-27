@@ -1,14 +1,23 @@
 # NumberGuesser
--- Description --
 
-This is just a first simple project of mine that I thought I would share.
+A number guesser program built with Python as a first simple little project of mine.
 
--- Future Changes --
+---
 
-If you want any future changes to this application you will either have to do it your self (Read License Before Doing So) or, search for other published copy's.
+## 📦 Getting Started
 
--- Instructions --
+1. Go over to the [Releases](https://github.com/adamant-process/NumberGuesser/releases/tag/1.0.0) page.
+2. Download the latest `.zip` file.
+3. Unzip it and double-click the `.exe` to launch the program.
+---
 
-Download the latest Release.
+## ⚙️ How to Use
 
-Unzip the file then double click the .exe to open the application, and its common sense from there.
+1. Enter the number you're thinking of into the box next to the **Guess My Number** button.
+2. Click the **Guess My Number** button to start.
+3. The program will begin calculating and will eventually reveal the number it thinks you're thinking of.
+---
+
+## 🔧 Future Changes
+
+You're welcome to modify or improve the app yourself just check the license first. You might also find community forks or updates floating around GitHub. Other than that I will most likely not be updating this unless there is a major bug that dosent allow you to use the program.
