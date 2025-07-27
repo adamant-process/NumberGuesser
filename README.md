@@ -6,7 +6,7 @@ A number-guessing program built with Python as my first simple little project.
 
 ## 📦 Getting Started
 
-1. Go over to the [Releases](https://github.com/adamant-process/NumberGuesser/releases/tag/1.0.0) page.
+1. Go over to the [Releases](https://github.com/adamant-process/NumberGuesser/releases) page.
 2. Download the latest `.zip` file.
 3. Unzip it and double-click the `.exe` to launch the program.
 ---
