@@ -9,6 +9,7 @@ A number-guessing program built with Python as my first simple little project.
 1. Go over to the [Releases](https://github.com/adamant-process/NumberGuesser/releases) page.
 2. Download the latest `.zip` file.
 3. Unzip it and double-click the `.exe` to launch the program.
+
 ---
 
 ## ⚙️ How to Use
@@ -16,8 +17,17 @@ A number-guessing program built with Python as my first simple little project.
 1. Enter the number you're thinking of into the box next to the **Guess My Number** button.
 2. Click the **Guess My Number** button to start.
 3. The program will begin calculating and will eventually reveal the number it thinks you're thinking of.
+
 ---
 
-## 🔧 Future Changes
+## 📄 Help
 
-You're welcome to modify or improve the app yourself; just check the license first. You might also find community forks or updates floating around on GitHub. Other than that, I will most likely not be updating this unless there is a major bug that doesn't allow you to use the program.
+Join our community at Prazadenta Creations: [Link](https://discord.gg/pV5NqjXtgE)
+
+---
+
+## 📃 Terms of Service & Privacy Policy
+
+[Terms of Service](https://github.com/adamant-process/NumberGuesser/blob/main/terms.txt)
+
+[Privacy Policy](https://github.com/adamant-process/NumberGuesser/blob/main/privacy.txt)
