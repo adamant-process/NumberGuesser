@@ -14,8 +14,8 @@ A number-guessing program built with Python as my first simple little project.
 
 ## ⚙️ How to Use
 
-1. Enter the number you're thinking of into the box next to the **Guess My Number** button.
-2. Click the **Guess My Number** button to start.
+1. Enter the number you're thinking of into the box next to the `Guess My Number` button.
+2. Click the `Guess My Number` button to start.
 3. The program will begin calculating and will eventually reveal the number it thinks you're thinking of.
 
 ---
